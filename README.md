@@ -14,14 +14,18 @@ npm start
 
 ## API Endpoints
 
-GET /customers
-GET /customers/:id
-POST (Protected) /customers
-PUT (Protected) /customers/:id
-DELETE (Protected) /customers/:id
+#### Customer Routes
 
-POST /register
-POST /auth
+- GET /customers
+- GET /customers/:id
+- POST (Protected) /customers
+- PUT (Protected) /customers/:id
+- DELETE (Protected) /customers/:id
+
+#### User Routes
+
+- POST /register
+- POST /auth
 
 ## App Info
 
